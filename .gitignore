@@ -34,3 +34,7 @@ node_modules
 
 typings
 dist
+
+# AOT files
+/compiled
+*.metadata.json
